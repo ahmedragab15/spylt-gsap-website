@@ -1,4 +1,3 @@
-"use client"
 import { useGSAP } from "@gsap/react";
 import ClipPathTitle from "@/components/ClipPathTitle";
 import gsap from "gsap";

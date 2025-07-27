@@ -1,4 +1,3 @@
-"use client";
 import { useGSAP } from "@gsap/react";
 import { flavorList } from "../constants";
 import gsap from "gsap";
