@@ -61,7 +61,7 @@ const FooterSection = () => {
 
         <div className="copyright-box">
           <p>
-            Cloned by <a href="https://ahmedragab.netlify.app">Ahmed Ragab</a> - Copyright © 2025 Spylt - All Rights Reserved
+            Cloned by <a href="https://ahmedragab.netlify.app" target="_blank">Ahmed Ragab</a> - Copyright © 2025 Spylt - All Rights Reserved
           </p>
           <div className="flex items-center gap-7">
             <p>Privacy Policy</p>
