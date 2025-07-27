@@ -30,13 +30,13 @@ A visually immersive and responsive landing page built with **Next.js**, **Tailw
    <img src="public/preview/preview1.png" >
   <br /> 
 
-   <img src="public/preview/preview1.png" >
+   <img src="public/preview/preview2.png" >
   <br /> 
  
-   <img src="public/preview/preview1.png" >
+   <img src="public/preview/preview3.png" >
   <br /> 
  
-   <img src="public/preview/preview1.png" >
+   <img src="public/preview/preview4.png" >
 
 ---
 
