@@ -18,7 +18,7 @@ const FooterSection = () => {
         {isMobile ? (
           <Image src="/images/footer-drink.webp" alt="" width={3000} height={3000} className="absolute top-0 object-contain" />
         ) : (
-          <video src="/videos/splash.mp4" autoPlay playsInline muted className="absolute top-0 object-contain mix-blend-lighten" />
+          <video src="/videos/splash1.mp4" autoPlay playsInline muted className="absolute top-0 object-contain mix-blend-lighten" />
         )}
 
         <div className="flex-center gap-5 relative z-10 md:mt-20 mt-5">
