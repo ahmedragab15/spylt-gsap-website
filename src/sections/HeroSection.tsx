@@ -67,7 +67,9 @@ const HeroSection = () => {
       <div className="hero-container">
         {isTablet ? (
           <>
-            {isMobile && <Image src="/images/hero-bg.webp" alt="hero-bg" className="absolute bottom-40 size-full object-cover" />}
+            {isMobile && (
+              <Image src="/images/hero-bg.webp" alt="hero-bg" width={3000} height={3000} className="absolute bottom-40 size-full object-cover" />
+            )}
             <Image
               src="/images/hero-img.webp"
               alt="hero-img"
