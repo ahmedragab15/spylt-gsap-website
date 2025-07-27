@@ -69,7 +69,7 @@ const HeroSection = () => {
         {isTablet ? (
           <>
             {isMobile && <Image src="/images/hero-bg.webp" alt="hero-bg" className="absolute bottom-40 size-full object-cover" />}
-            <Image src="/images/hero-img.webp" alt="hero-img" className="absolute bottom-0 left-1/2 -translate-x-1/2 object-auto" />
+            <Image src="/images/hero-img.webp" alt="hero-img" width={500} height={500} className="absolute bottom-0 left-1/2 -translate-x-1/2 object-auto" />
           </>
         ) : (
           <video src="/videos/hero-bg.mp4" autoPlay muted playsInline className="absolute inset-0 w-full h-full object-cover" />
